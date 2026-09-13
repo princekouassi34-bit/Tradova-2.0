@@ -1,0 +1,6 @@
+{
+  "name": "TRADOVA",
+  "description": "Trading Performance Operating System — Build Your Edge.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
